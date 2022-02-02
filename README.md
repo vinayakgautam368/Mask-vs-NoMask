@@ -1,5 +1,15 @@
 # Mask-vs-NoMask
-![mask](https://user-images.githubusercontent.com/64793363/152224792-561e90d6-b178-4d81-a562-d214b96ce904.png)
+
+<u><b>LOSS GRAPHS</b></u>
+
+<img src="git/loss.png" width="400">
+
+<b>ACCURACY GRAPHS</b>
+
+<img src="git/acc.png" width="400">
 
 
-<b>Results</b>
+
+<b>REAL TIME RESULTS</b>
+
+<img src="git/mask.png" width="400">
