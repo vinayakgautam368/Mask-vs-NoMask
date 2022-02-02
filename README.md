@@ -4,7 +4,7 @@ Face Detection, a widely popular subject with a huge range of applications. Mode
 <li><a href="https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08">Face Detection with Haar Cascade</a></li>
 
 <li><a href="https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5">Building a Convolutional Neural Network (CNN) in Keras</a></li>
-
+<li><a href="https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825" >Data Preprocessing</a></li>
 </ul>
 
 
